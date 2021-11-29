@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://maiaraf.github.io/html-css/desafios/des010/projetosite01.html">Executar o desafio 010</a>
+<a href="https://maiaraf.github.io/html-css/exercicios/ex001/" target="blank">Executar o exercicio 001</a>
