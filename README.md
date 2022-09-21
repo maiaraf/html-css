@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://maiarasilvaferreira.github.io/html-css/desafios/des010/" target="_blank">Executar site</a>
+<a href="https://maiarasilvaferreira.github.io/html-css/desafios/des010/index.html" target="_blank">Executar site</a>
